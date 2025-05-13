@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservation_tour", "Reservation_tour.csproj", "{0E8C3D1A-25E6-4529-89C9-9A5A7AD6C479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain_tour", "..\Domain_tour\Domain_tour.csproj", "{CA026655-9C5A-44C6-8C9E-1F84D5689F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8C3D1A-25E6-4529-89C9-9A5A7AD6C479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8C3D1A-25E6-4529-89C9-9A5A7AD6C479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8C3D1A-25E6-4529-89C9-9A5A7AD6C479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8C3D1A-25E6-4529-89C9-9A5A7AD6C479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA026655-9C5A-44C6-8C9E-1F84D5689F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA026655-9C5A-44C6-8C9E-1F84D5689F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA026655-9C5A-44C6-8C9E-1F84D5689F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA026655-9C5A-44C6-8C9E-1F84D5689F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
